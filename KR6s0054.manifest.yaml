@@ -1,0 +1,44 @@
+canonical_identifier: bkk:krp/KR6s0054/v1
+canonical_location: https://kanripo.org/bkk/KR6s0054/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大蕃沙洲釋門教法和尚洪𮗿修功德記
+  identifiers:
+    alt_id:
+    - T85n2862
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2862.xml
+    old_id: T85n2862
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6s0054_000.yaml, hash: 'sha256:a67c6f4fb2094ff6abf78f96c6858ae1d6d2861e42ae46370b7aa09965372784'}
+  - {seq: 1, filename: KR6s0054_001.yaml, hash: 'sha256:dfbe117979f96bd6bdfdbd2667ff5100c2ffbd04d545e452c57c3152b83ebbd3'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6s0054_001.markers.yaml, hash: 'sha256:3ae7d2e8b04ef3793857c6358dd30c9e9199cdb24e901ec747facf1b9b7c6540'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6s0054_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 463
+  label: '大蕃沙洲釋門教法和尚洪𮗿修
+
+    功德記'
+  type: juan
+  level: 1
+hash: sha256:183d81b4c77051fbbce6816f92941a7f43d5fa7361c158f695a383b9506f1601
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

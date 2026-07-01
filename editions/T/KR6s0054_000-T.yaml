@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6s0054/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大蕃沙洲釋門教法和尚洪𮗿修功德記
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2862.xml
+    old_id: T85n2862
+hash: sha256:a67c6f4fb2094ff6abf78f96c6858ae1d6d2861e42ae46370b7aa09965372784
