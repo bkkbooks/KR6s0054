@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6s0054_000.yaml, hash: 'sha256:a67c6f4fb2094ff6abf78f96c6858ae1d6d2861e42ae46370b7aa09965372784'}
-  - {seq: 1, filename: KR6s0054_001.yaml, hash: 'sha256:dfbe117979f96bd6bdfdbd2667ff5100c2ffbd04d545e452c57c3152b83ebbd3'}
+  - {seq: 1, filename: KR6s0054_001.yaml, hash: 'sha256:b55d02d37d15f7ad237d4bce5389f5bbcb30b6b9a79c4a755dc87d35e509b2eb'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6s0054_001.markers.yaml, hash: 'sha256:3ae7d2e8b04ef3793857c6358dd30c9e9199cdb24e901ec747facf1b9b7c6540'}
+  - {seq: 0, role: markers, filename: assets/KR6s0054_000.markers.yaml, hash: 'sha256:ec46bbe59a2119bd52a6454e5c4f14c228a7002034ebc2249e126b20f2923742'}
+  - {seq: 1, role: markers, filename: assets/KR6s0054_001.markers.yaml, hash: 'sha256:c41fa8f4432f1ec2b39125b8f977eac115a6a008ba6fa6d24867fddc9f4d7e95'}
 table_of_contents:
 - ref:
     seq: 1
@@ -38,7 +39,4 @@ table_of_contents:
     功德記'
   type: juan
   level: 1
-hash: sha256:183d81b4c77051fbbce6816f92941a7f43d5fa7361c158f695a383b9506f1601
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:543217cc567b6a6654ceb6763f5c82ed2a8ab00ab06c96a95ed00d797d5aa518
