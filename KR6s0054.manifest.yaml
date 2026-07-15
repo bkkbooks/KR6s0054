@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6s0054/v1
 canonical_location: https://kanripo.org/bkk/KR6s0054/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 大蕃沙洲釋門教法和尚洪𮗿修功德記
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6s0054_000.yaml, hash: 'sha256:a67c6f4fb2094ff6abf78f96c6858ae1d6d2861e42ae46370b7aa09965372784'}
-  - {seq: 1, filename: KR6s0054_001.yaml, hash: 'sha256:b55d02d37d15f7ad237d4bce5389f5bbcb30b6b9a79c4a755dc87d35e509b2eb'}
+  - {seq: 1, filename: KR6s0054_001.yaml, hash: 'sha256:dfbe117979f96bd6bdfdbd2667ff5100c2ffbd04d545e452c57c3152b83ebbd3'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6s0054_000.markers.yaml, hash: 'sha256:ec46bbe59a2119bd52a6454e5c4f14c228a7002034ebc2249e126b20f2923742'}
-  - {seq: 1, role: markers, filename: assets/KR6s0054_001.markers.yaml, hash: 'sha256:c41fa8f4432f1ec2b39125b8f977eac115a6a008ba6fa6d24867fddc9f4d7e95'}
+  - {seq: 1, role: markers, filename: assets/KR6s0054_001.markers.yaml, hash: 'sha256:8187947667c41e66edafa8c4247463bb65f00ef77d9e8ac0cbb9594a7594487c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -39,4 +39,7 @@ table_of_contents:
     功德記'
   type: juan
   level: 1
-hash: sha256:543217cc567b6a6654ceb6763f5c82ed2a8ab00ab06c96a95ed00d797d5aa518
+hash: sha256:6689a9915d6ece0d6c27e644c8ee02863a4634c681484a228f734807997d4f57
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
